@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/kamil/Desktop/zadania/zad8'
+gcc -Wall -pedantic -std=c99 -Ilibcom -c libcom/libcom.c -o build/libcom.a -lrt
+make: Leaving directory '/home/kamil/Desktop/zadania/zad8'
+ 

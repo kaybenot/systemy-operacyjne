@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/kamil/Desktop/zadania/zad7'
+gcc -Wall -pedantic -std=gnu99 -Ilibseg -o build//lib/libseg.a -c libseg/libseg.c -lpthread -lrt
+make: Leaving directory '/home/kamil/Desktop/zadania/zad7'
+ 

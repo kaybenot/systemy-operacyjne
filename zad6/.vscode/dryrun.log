@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/kamil/Desktop/zadania/zad6'
+gcc -Wall -pedantic -std=c99 -g -Isem_lib -Isem_lib/include -lpthread -c -o build/libsem.a sem_lib/sem_lib.c
+make: Leaving directory '/home/kamil/Desktop/zadania/zad6'
+ 

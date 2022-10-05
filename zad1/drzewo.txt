@@ -1,0 +1,8 @@
+Macierzysty - PID: 2623, PPID: 1988, PGID: 2623
+    Potomny - PID: 2624, PPID: 2623, PGID: 2623
+        Potomny - PID: 2627, PPID: 2624, PGID: 2623
+            Potomny - PID: 2630, PPID: 2627, PGID: 2623
+        Potomny - PID: 2629, PPID: 2624, PGID: 2623
+    Potomny - PID: 2625, PPID: 2623, PGID: 2623
+        Potomny - PID: 2628, PPID: 2625, PGID: 2623
+    Potomny - PID: 2626, PPID: 2623, PGID: 2623
